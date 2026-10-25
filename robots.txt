@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://santoshi15.github.io/golf-sim-database/sitemap.xml
